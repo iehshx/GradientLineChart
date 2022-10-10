@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GradientLineChart">
+        <!--线宽度-->
+        <attr name="tc_lineWidth" format="dimension" />
+        <!--网格线宽度-->
+        <attr name="tc_grid_line_width" format="dimension" />
+        <!--网格线颜色-->
+        <attr name="tc_grid_line_color" format="color" />
+        <!--等级颜色指示器宽度-->
+        <attr name="tc_level_indicator_width" format="dimension" />
+        <!--背景颜色-->
+        <attr name="tc_background_color" format="color" />
+    </declare-styleable>
+</resources>
